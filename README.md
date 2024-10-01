@@ -1,6 +1,9 @@
 #  Belajar data analisis dengan python
 E - commercce public dataset
 
+# dashboard link 
+https://magrozanbangkitsubmission.streamlit.app/
+
 ## Deskripsi 
 Repository ini berisi tentang proyek proses analisis data dari dicoding untuk tugas akhir setelah mempelajari berbagai topik mengenai proses analisis data seperti berikut.
 
