@@ -26,7 +26,7 @@ Repository ini berisi tentang proyek proses analisis data dari dicoding untuk tu
 
    ```shell
    pip install streamlit
-   pip install -r dashboard/requirements.txt
+   pip install -r requirements.txt
    ```
 ## Penggunaan 
 1. Buka terminal dan pindahkan direktori ke dashboard.py
