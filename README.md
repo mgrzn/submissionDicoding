@@ -31,5 +31,5 @@ Repository ini berisi tentang proyek proses analisis data dari dicoding untuk tu
 ## Penggunaan 
 1. Buka terminal dan pindahkan direktori ke dashboard.py
 2. ```shell
-   streamlit run main.py
+   streamlit run dashboard.py
    ```
